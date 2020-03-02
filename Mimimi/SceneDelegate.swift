@@ -71,6 +71,5 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         print("function: " + #function)
         print("Applicatoin moved from \"Foreground\" to \"Background\"\n")
     }
-
 }
 

@@ -1,0 +1,10 @@
+# Игнорировать xccheckout, xcscmblueprint файлы
+
+*. xccheckout
+*. xcscmblueprint
+
+# Игнорировать папки build, DerivedData, xcuserdata
+
+build/
+DerivedData/
+xcuserdata/
